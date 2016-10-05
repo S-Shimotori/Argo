@@ -1,0 +1,1 @@
+../Argo/Types/Decoded/Functor.swift
